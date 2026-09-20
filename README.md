@@ -1,8 +1,6 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado - ChainMind 3° Semestre (API)
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Desenvolver uma solução fundamentada em Pesquisa Operacional para otimizar o planejamento das equipes de fiscalização do IPEM-SP com base no histórico de inspeções.
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -13,28 +11,26 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (API) do curso de Logística da Fatec SJC, voltado para atender a uma demanda do IPEM-SP (Instituto de Pesos e Medidas do Estado de São Paulo).  Em termos simples, o objetivo do projeto é otimizar as rotas e viagens que as equipes de fiscalização do IPEM fazem no dia a dia.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   joão Vitor Overas Rodrigues         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
-| Scrum Master  | Ana Beatriz Chiavini |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
-| Team Member   | Mário de Oliveira Silva Junior              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Lucas Fernando Luciano Serafim                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Gabriela Souza Oliveira                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
-|  Team Member  | Filipe Gabriel Moreira de Paula Ferreira       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
-
-
+| Product Owner |   João Vitor Overas Rodrigues Guedes         |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CrawS2)              |
+| Scrum Master  | Ana Beatriz Chiavini |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anachiavini)     |
+| Team Member   | Filipe Gabriel Moreira de Paula Ferreira              |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/StassieFilipe)        |
+|  Team Member  | Gabriela Souza Oliveira                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielaSouzaOiveira)        |
+|  Team Member  | Lucas Fernando Luciano Serafim                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
+|  Team Member  | Mário de Oliveira Silva Júnior       |            [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarioJunior12)    
+|  Team Member  | Raquel Araújo Lima       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RaquelAraujoL)
+| Team Member   | Tainara Oliveira  |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/tainarao479-cmyk)
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+O objetivo do projeto é otimizar o planejamento das equipes de fiscalização do IPEM-SP utilizando o histórico de inspeções, por meio de uma solução baseada em Pesquisa Operacional.
+
+* Minimizar deslocamentos e reduzir o tempo de viagem das equipes;
+* Balancear a carga de trabalho entre os fiscais;
+* Apoiar a tomada de decisão no planejamento das operações;
+
 
 
 ## Tecnologias Utilizadas
@@ -42,21 +38,23 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
+* Microsoft Word
+* WhatsApp
 * Python (Colab)
-* Mysql
-
-
-
+  
 # Product Backlog
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Altíssima       | Como coordenador de desenvolvimento, quero que seja feita uma filtragem dos itens a serem utilizados da Base de Dados através da Linguagem Phyton.  | 7          | 1      |
+| 2    | Alta       |Como coordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no Power BI.    | 5          | 1      |
+| 3    | Alta       | Como coordenador de desenvolvimento, quero que dentro da plataforma BI seja possível visualizar o tempo consumido por cada fiscal.  | 5          | 2      |
+| 4    | Alta      | Como coordenador de desenvolvimento, quero a otimização dos dados filtrados. a fim de reduzir os custos de tempo dos fiscais.  |  6     | 2       |                            
+| 5    | Alta     | Como coordenador de desenvolvimento, quero que a plataforma de BI possua mapas das principais rotas utilizadas durante o processo de fiscalização de forma visual e objetiva.  | 7       | 3    |
+| 6   | Média      | Como coordenador de desenvolvimentos, quero que seja possível filtrar as informações de rotas por município.  | 3          | 3      |
+| 7    |  Média    | Como coordenador de desenvolvimento, quero que seja possível filtrar as informações de rota por região metropolitana do estado de São Paulo.   | 3   | 3   |
+| 8     | Média   | Como coordenador de desenvolvimento, quero comparar a situação da operação real com a otimizada, mostrando as diferenças de tempo e quilometragem percorrida.  | 4   | 3    |
+| 9    | Baixíssima   | Como coordenador de desenvolvimento, quero que seja feito um relatório, que documente tudo que foi realizado ao longo do projeto. | 5| 3|
 
 
 
@@ -67,8 +65,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
-
+| 01                | 30/09/2026 | Em Andamento | [MVP](MVP/sp1.md)  |
+| 02                | 28/10/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 25/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
